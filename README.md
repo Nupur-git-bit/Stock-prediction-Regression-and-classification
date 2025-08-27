@@ -1,7 +1,7 @@
 # Stock-prediction-Regression-and-classification
 
 
-This project explores stock price forecasting using both regression and classification approaches. The workflow covers data acquisition, feature engineering, and technical indicator generation,
+This project explores stock price forecasting using both regression and classification approaches with the use of TensorFlow and Keras. The workflow covers data acquisition, feature engineering, and technical indicator generation,
 followed by deep learning model development.
 
 🔹 Methods
